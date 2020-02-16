@@ -1,3 +1,3 @@
 # go
 
-Everbody needs a repo of simple Go functions. This one is mine.
+Everbody needs a repo of simple Go packages. This one is mine.
